@@ -84,7 +84,7 @@ $(document).ready(function(){
         }
     });
 
-    let dataAreaOffset = $('#dados').offset();
+    let dataAreaOffset = $('#data').offset();
     let stop = 0;
 
     $(window).scroll(function(e){
@@ -105,7 +105,7 @@ $(document).ready(function(){
     /* paralax */
     setTimeout(function(){
 
-        $('#dados').parallax({imageSrc:'img/cidadeparallax.png'});
+        $('#data').parallax({imageSrc:'img/cidadeparallax.png'});
 
     },250);
 
