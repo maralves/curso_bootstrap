@@ -186,3 +186,26 @@ header, .navbar {
     color: #65daf9;
 
  }
+
+ /* dados */
+
+ .circle-box div {
+
+    padding: 0 40px;
+
+ }
+ 
+ .progressbar-text {
+
+    font-weight: bold;
+    font-size: 40px;
+
+ }
+
+ #dados p {
+
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+ }
